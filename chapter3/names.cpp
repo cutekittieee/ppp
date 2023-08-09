@@ -1,4 +1,4 @@
-// read name and age (3rd version)
+// read two names
 
 #include "../../std_lib_facilities.h"
 
