@@ -8,7 +8,7 @@ int main()
 	int n;
 	cin >> n;
 
-	cout << "n == " << n
+	cout << "n == " << n / 2 * 2 + n % 2
 		<< "\nn+1 == " << n + 1
 		<< "\nthree times n == " << 3 * n
 		<< "\ntwice n == " << 2 * n
