@@ -11,5 +11,6 @@ int main()
 	cout << "\tHow are you? I am fine. I miss you. We have so many memories together we will never forget!\n";
 	cout << "I was very worried since you mentioned that a member of your family has become ill.\n";
 	cout << "Are they getting better? When are you going to return home to be able to visit them?\n";
+	
 	return 0;
 }
