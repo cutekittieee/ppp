@@ -1,3 +1,6 @@
+// convert from inches to centimeters or centimeters to inches
+// a suffix ‘i’ or ‘c’ indicates the unit of the input
+
 #include "../../std_lib_facilities.h"
 
 int main()
